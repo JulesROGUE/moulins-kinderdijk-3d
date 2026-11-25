@@ -85,17 +85,17 @@ Les 16 moulins complets tiennent en une poignée d'`InstancedMesh` (une trentain
 
 Téléchargez la dernière version sur la page [Releases](https://github.com/JulesROGUE/moulins-kinderdijk-3d/releases/latest).
 
-**Windows** : téléchargez l'exécutable portable `…-portable.exe` et lancez-le, sans installation. L'exécutable n'est pas signé : si Windows SmartScreen affiche un avertissement, cliquez sur « Informations complémentaires » puis « Exécuter quand même ».
+**Windows** : téléchargez l'exécutable portable `Moulins.de.Kinderdijk.3D-1.0.0-portable.exe` et lancez-le, sans installation. L'exécutable n'est pas signé : si Windows SmartScreen affiche un avertissement, cliquez sur « Informations complémentaires » puis « Exécuter quand même ».
 
 **Linux** :
 
 ```bash
 # AppImage
-chmod +x Moulins*.AppImage
-./Moulins*.AppImage
+chmod +x Moulins.de.Kinderdijk.3D-1.0.0-linux-x86_64.AppImage
+./Moulins.de.Kinderdijk.3D-1.0.0-linux-x86_64.AppImage
 
 # ou paquet .deb (Debian, Ubuntu…)
-sudo apt install ./moulins*.deb
+sudo apt install ./Moulins.de.Kinderdijk.3D-1.0.0-linux-amd64.deb
 ```
 
 ## Développement
